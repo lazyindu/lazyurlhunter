@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/LazyDeveloperr/lazyurlhunterrbot.git /lazyurlhunter
+git clone https://github.com/lazyindu/lazyurlhunter.git /lazyurlhunter
 cd /lazyurlhunter
 pip3 install -r requirements.txt
 echo "⚡️ Starting Bot...."
